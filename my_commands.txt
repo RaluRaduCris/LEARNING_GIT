@@ -1,0 +1,4 @@
+after creating a new repository on the internet, first we have to clone on local:
+
+1. clone internet repository
+$ git clone https://github.com/RaluRaduCris/learning_git
