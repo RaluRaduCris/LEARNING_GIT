@@ -2,3 +2,10 @@ after creating a new repository on the internet, first we have to clone on local
 
 1. clone internet repository
 $ git clone https://github.com/RaluRaduCris/learning_git
+2.Add file to repository 
+$ git add xxxx.txt 
+    Å¶Add multiple files: git add -A
+3. Commit files
+$ git commit
+4. Push files to the cloud
+$ git push
